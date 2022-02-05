@@ -2,6 +2,7 @@
     "name": "jmichaelward/abstracts-wp",
     "description": "Library of abstract classes for quickly scaffolding WordPress structures.",
     "require": {
+        "php": "^7.4 || ^8.0",
         "jmichaelward/contracts-wp": "^0.1.0"
     },
     "license": "GPL-3.0",
