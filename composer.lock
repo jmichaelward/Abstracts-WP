@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "b988480f491fe659313d6b5a48931784",
+    "packages": [
+        {
+            "name": "jmichaelward/contracts-wp",
+            "version": "0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jmichaelward/Contracts-WP.git",
+                "reference": "1c06d68d50317d86a667f19aa354be64603b11df"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jmichaelward/Contracts-WP/zipball/1c06d68d50317d86a667f19aa354be64603b11df",
+                "reference": "1c06d68d50317d86a667f19aa354be64603b11df",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.4 || ^8.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "JMichaelWard\\ContractsWP\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Jeremy Ward",
+                    "email": "jeremy@jmichaelward.com"
+                }
+            ],
+            "description": "PHP contracts for WordPress.",
+            "support": {
+                "issues": "https://github.com/jmichaelward/Contracts-WP/issues",
+                "source": "https://github.com/jmichaelward/Contracts-WP/tree/0.1.0"
+            },
+            "time": "2022-02-05T17:22:12+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}

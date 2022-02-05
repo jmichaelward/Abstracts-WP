@@ -1,0 +1,19 @@
+{
+    "name": "jmichaelward/abstracts-wp",
+    "description": "Library of abstract classes for quickly scaffolding WordPress structures.",
+    "require": {
+        "jmichaelward/contracts-wp": "^0.1.0"
+    },
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "JMichaelWard\\AbstractsWP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jeremy Ward",
+            "email": "jeremy@jmichaelward.com"
+        }
+    ]
+}
